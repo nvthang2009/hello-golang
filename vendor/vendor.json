@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "xipNTJ9e2pH8nk3stKhqnzQeZFM=",
+			"path": "github.com/lib/pq",
+			"revision": "ef080b6a8f499b5d60fe9f24a2f8a8beb671566d",
+			"revisionTime": "2020-08-12T19:37:26Z"
+		},
+		{
+			"checksumSHA1": "AU3fA8Sm33Vj9PBoRPSeYfxLRuE=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "ef080b6a8f499b5d60fe9f24a2f8a8beb671566d",
+			"revisionTime": "2020-08-12T19:37:26Z"
+		},
+		{
+			"checksumSHA1": "n0MMCrKKsQuuhv7vLsrtRUGJVA8=",
+			"path": "github.com/lib/pq/scram",
+			"revision": "ef080b6a8f499b5d60fe9f24a2f8a8beb671566d",
+			"revisionTime": "2020-08-12T19:37:26Z"
+		}
+	],
+	"rootPath": "go-pg-crud"
+}
