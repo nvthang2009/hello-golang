@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-                git credentialsId: 'webhook-2', url: 'https://gitlab.com/thangnv2009/webhook-2.git'
+                git credentialsId: 'webhook-2', url: 'https://github.com/nvthang2009/golang.git'
             }
         }
         stage('build') {
